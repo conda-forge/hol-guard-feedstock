@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "3.4.2"
+  version: "3.4.5"
 
 package:
   name: hol-guard
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/h/hol-guard/hol_guard-${{ version }}.tar.gz
-  sha256: 8c780287665b421a46f882e14a28a2f19e209846cec9d7a87c1be5112f214877
+  sha256: 520d810658af8a99b813d187cb360245d723ae27a0832e70c64d4cd77600343c
 
 build:
   noarch: python
